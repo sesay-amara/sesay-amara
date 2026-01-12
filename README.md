@@ -1,24 +1,33 @@
-Hey 👋, This is Amara Sesay 
+# Hi, I'm Amara Sesay 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-sesay_amara@wheatoncollege.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sesay_amara@wheatoncollege.edu)](mailto:sesay_amara@wheatoncollege.edu) 
-[![Linkedin Badge](https://img.shields.io/badge/-amara-sesay-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amara-sesay/)](https://www.linkedin.com/in/amara-sesay/) [![Github Badge](https://img.shields.io/badge/-sesay-amara-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sesay-amara/)](https://www.github.com/sesay-amara/) <p align='left'>Business Intelligence Analyst with a background in education and sports, skilled at turning complex data into actionable insights. Experienced educator and coach who leverages analytics to uncover patterns, optimize performance, and drive strategic decisions. Proficient in SQL, Tableau, Power BI, Excel, and Python, with a passion for data storytelling that bridges insights and impact across learning and athletic environments.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1AykCewBeIhxecaT_S0N371EkoC-rXPe1IJnOLgvj-N8/edit?tab=t.0 ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=sesay-amara alt=sesay-amara /> </p>
+**Business Intelligence Analyst | Turning Complex Data into Clear Stories**  
+📍 Queens, NY | 📊 Analytics • 📈 Insights • 🎯 Impact
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sesay-amara&show_icons=true&include_all_commits=true)](https://github.com/sesay-amara/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesay-amara&layout=compact)](https://github.com/sesay-amara/github-readme-stats)
-ading readme (3).txt…]()
-<!--
-**sesay-amara/sesay-amara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨🏾‍💻 About Me
+I’m a Business Intelligence Analyst with a background in education and a passion for transforming raw data into actionable insights. I specialize in building dashboards, uncovering trends, and helping stakeholders make data-informed decisions—especially in **sports, education, and mission-driven organizations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Strong in data storytelling and stakeholder communication  
+- 🧠 Analytical mindset shaped by teaching and problem-solving  
+- 🚀 Actively seeking BI Analyst opportunities  
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Tools**
+- SQL 
+- Tableau | Power BI
+- Excel / Google Sheets
+
+
+**Analytivs Skills**
+- Data Cleaning & Validation
+- KPI Design & Reporting
+-  Dashboard Developement
+-  Business & Product Analysis
+
+
+## 🤝 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/amara-sesay/)
+- 📧 Email: sesay_amara@wheatoncollege.edu
