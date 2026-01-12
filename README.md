@@ -31,3 +31,10 @@ I’m a Business Intelligence Analyst with a background in education and a passi
 ## 🤝 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/amara-sesay/)
 - 📧 Email: sesay_amara@wheatoncollege.edu
+
+<p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1AykCewBeIhxecaT_S0N371EkoC-rXPe1IJnOLgvj-N8/edit?tab=t.0 ' target=_blank><u>here</u>.</a></p>
+
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sesay-amara&show_icons=true&include_all_commits=true)](https://github.com/sesay-amara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesay-amara&layout=compact)](https://github.com/sesay-amara/github-readme-stats)
+
